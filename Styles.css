@@ -24,3 +24,7 @@ img{
     padding: 15px;
     border-radius: 50%;
 }
+.btn{
+    display: flex;
+    justify-content: center;
+}
